@@ -1,0 +1,2019 @@
+@media only screen and (max-width: 1700px) {
+    .home_main_bg .left_image {
+        margin-left: 50px;
+    }
+}
+
+@media (max-width:1366px) {
+    .partient_wrpp {
+        left: -50px;
+        bottom: 285px;
+        padding: 6px 11px 8px 4px;
+    }
+    .partient_wrpp svg{
+        width: 20px;
+    }
+    .partient_wrpp p{
+        font-size: 13px;
+    }
+    .find_doctor_wrppp{
+        left: -43px;
+        bottom: 71px;
+        padding: 6px 11px 8px 4px;
+    }
+    .find_doctor_wrppp svg{
+        width: 20px;
+    }
+    .find_doctor_wrppp p {
+        font-size: 13px;
+    }
+    .booking_wrpp{
+        right: -82px;
+        bottom: 285px;
+    }
+    .booking_wrpp svg{
+        width: 20px;
+    }
+    .booking_wrpp p {
+        font-size: 13px;
+    }
+    .enquire_wrap {
+        bottom: 90px;
+        padding: 6px 23px 6px;
+    }
+    .enquire_wrap svg {
+        width: 20px;
+    }
+    .enquire_wrap p {
+        font-size: 13px;
+    }
+    .each_testimo img {
+        width: 200px;
+        height: 200px;
+    }
+    .multidisciplinary_sec h2 {
+        font-size: 40px;
+    }
+    .Treatment_bg {
+        padding: 100px 0;
+        background-size: 100% 100% !important;
+        background-position: center !important;
+    }
+    .partient_wrpp_detl .box_wrp .cardwrp{
+        max-height: 150px;
+        min-height: 150px;
+        padding: 25px 0;
+    }
+    .partient_wrpp_detl .box_wrp .cardwrp svg{
+        width: 40px;
+        height: 40px;
+    }
+    .partient_wrpp_detl .top_d h5{
+        font-size: 20px;
+    }
+    .booking_wrpp_detl{
+        padding: 30px 50px;
+    }
+    .booking_wrpp_detl .box_wrp{
+        margin-top: 10px;
+    }
+    .booking_wrpp_detl .top_d h5 {
+        font-size: 20px;
+    }
+    .booking_wrpp_detl .box_wrp .cardwrp {
+        max-height: 150px;
+        min-height: 150px;
+        padding: 25px 0;
+    }
+    .booking_wrpp_detl .box_wrp .cardwrp svg{
+        width: 40px;
+        height: 40px;
+    }
+    .enquire_wrppp_detl {
+        padding: 30px;
+        top: 10px;
+    }
+    .enquire_wrppp_detl .top_d h5{
+        font-size: 20px;
+    }
+    .kiran_subnav .list-group-item{
+        font-size: 15px;
+    }
+    .review_video{
+        width: 500px !important;
+        height: 360px !important;
+    }
+    .regi_bigtxt h6{
+        font-size: 15px;
+    }
+    .regi_form_card-title {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .blue_sub_title {
+        font-size: 20px;
+    }
+    .red_title{
+        font-size: 16px;
+    }
+    .small_gray_text{
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .custom-modal-dialog {
+        max-width: 520px !important;
+        height: auto !important;
+    }
+
+
+}
+
+@media only screen and (max-width: 1400px) {
+    .kiran_wrp .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 13px;
+    }
+
+    .home_main_bg .right_img .one_img {
+        height: 290px;
+        width: 350px;
+        top: 20px;
+    }
+
+    .home_main_bg .right_img .two_img {
+        height: 280px;
+        width: 350px;
+        bottom: 20px;
+    }
+
+    .home_main_bg .doat_animation {
+        width: 350px;
+        height: 350px;
+    }
+
+    @keyframes myfirst {
+        0% {
+            left: -6px;
+            top: -9px;
+        }
+
+        25% {
+            left: 340px;
+            top: -9px;
+        }
+
+        50% {
+            left: 340px;
+            top: 340px;
+        }
+
+        75% {
+            left: -6px;
+            top: 340px;
+        }
+
+        100% {
+            left: -6px;
+            top: -9px;
+        }
+    }
+
+    .each_pricing .pricedata {
+        display: block;
+    }
+
+    .specialities_title{
+        font-size: 30px;
+        line-height: normal;
+    }
+    .gas_heading{
+        padding: 36px 0 !important;
+    }
+    .page_heading p{
+        font-size: 14px !important;
+    }
+    .custom_read_btn{
+        padding: 9px 14px;
+    }
+    .read-more_btn{
+        text-align: start;
+    }
+
+}
+
+@media (max-width:1440px) {
+    .Home_page_heading {
+        padding: 265px 0;
+        height: 100%;
+    }
+    .our_speci_wrp .slick-next {
+        right: 0;
+        display: none !important;
+    }
+    .our_speci_wrp .slick-prev {
+        left: 0;
+        display: none !important;
+    }
+    .slick-slider-pricing .slick-next {
+        right: 0;
+        display: none !important;
+    }
+    .slick-slider-pricing .slick-prev {
+        left: 0;
+        display: none !important;
+    }
+    .gas_heading {
+        padding: 86px 0 !important;
+    }
+    .gastro_sec {
+        background-size: 100% !important;
+        background-repeat: no-repeat !important;
+    }
+    .page_heading {
+        padding: 86px 0;
+    }
+    .bg_txt h1{
+        font-size: 20px;
+        line-height: normal;
+    }
+    .video_image{
+        height: 366px;
+        object-fit: contain;
+    }
+    .map_frame {
+        width: 100%;
+    }
+    .page_heading_doc{
+        padding: 120px 0;
+    }
+    .page_heading_floor{
+        padding: 110px 0;
+    }
+    .page_heading_medic {
+        padding: 110px 0;
+    }
+}
+
+@media (max-width:1280px) {
+    .page_heading {
+        padding: 80px 0;
+    }
+    .home_about .left_side_img .one-img {
+        height: 350px;
+    }
+    .tour_nav_tab .tour_link {
+        font-size: 15px;
+    }
+    .Treatment_bg {
+        padding: 25px 0;
+    }
+    .Home_page_heading {
+        padding: 251px 0;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .kiran_wrp .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 11px;
+    }
+
+    .kiran_wrp .call_div p {
+        display: none;
+        transition: all .3s;
+    }
+
+    .kiran_subnav .nav-mobile {
+        top: 27px;
+        width: 37px;
+    }
+
+    .kiran_wrp .call_div:hover p {
+        display: block;
+        background-color: var(--greencolor);
+        color: var(--whitecolor);
+        padding: 6px 10px;
+        position: absolute;
+        width: 134px;
+        z-index: 9;
+        left: -8px;
+        top: 42px;
+        border-radius: 5px;
+    }
+
+    .kiran_wrp .call_div:hover p.redbg {
+        background-color: var(--redcolor);
+        color: var(--whitecolor);
+    }
+
+    .kiran_wrp .call_div {
+        margin-right: 10px;
+        transition: all .3s;
+        cursor: pointer;
+        position: relative;
+    }
+
+    .home_about .left_side_img .two-img {
+        left: 50px;
+        height: 300px;
+        width: 250px;
+    }
+
+    .home_about .left_side_img .one-img {
+        height: 300px;
+        width: 250px;
+    }
+
+    .home_about .main_bg {
+        height: 430px;
+    }
+
+    .home_about .doat_animation {
+        width: 300px;
+        height: 300px;
+    }
+
+    @keyframes myfirsts {
+        0% {
+            left: -6px;
+            top: -9px;
+        }
+
+        25% {
+            left: 290px;
+            top: -9px;
+        }
+
+        50% {
+            left: 290px;
+            top: 290px;
+        }
+
+        75% {
+            left: -6px;
+            top: 290px;
+        }
+
+        100% {
+            left: -8px;
+            top: -9px;
+        }
+    }
+
+    .home_about .exx_div .dite h3 {
+        font-size: 20px;
+    }
+
+    .home_about .exx_div .dite p {
+        font-size: 14px;
+    }
+    .Home_page_heading {
+        padding: 200px 0 !important;
+        height: 100%;
+    }
+    .home_head {
+        background-size: 100%;
+        background-position: center;
+    }
+    .home_head2 {
+        background-size: 100%;
+        background-position: center;
+    }
+    .home_head3 {
+        background-size: 100%;
+        background-position: center;
+    }
+    .home_head4 {
+        background-size: 100%;
+        background-position: center;
+    }
+    .home_head5 {
+        background-size: 100%;
+        background-position: center;
+    }
+    .home_head6 {
+        background-size: 100%;
+        background-position: center;
+    }
+    .page_heading {
+        padding: 35px 0;
+    }
+    .page_heading_doc {
+        padding: 74px 0;
+    }
+    .page_heading_floor{
+        padding: 74px 0;
+    }
+    .page_heading_medic {
+        padding: 74px 0;
+    }
+
+}
+
+
+@media only screen and (max-width: 1024px) {
+    #owl-home {
+        height: 385px;
+    }
+    .Home_page_heading {
+        padding: 190px 0 !important;
+    }
+    .each_testimo img {
+        width: 180px;
+        height: 180px;
+    }
+    .content_bg .call_icon {
+        padding: 3px 0px 6px 21px;
+    }
+    .call_icon img {
+        width: 50px;
+    }
+    .custom_read_btn {
+        padding: 6px 10px;
+        font-size: 12px;
+    }
+    .tour_nav_tab .tour_link {
+        font-size: 14px;
+    }
+    .nav-tabs .nav-link {
+        padding: 8px 12px;
+    }
+    .statutory_info .statutory_bg {
+        padding: 18px;
+    }
+    .statutory_info .statutory_content p {
+        font-size: 15px;
+        line-height: normal;
+    }
+    .large_text h2{
+        font-size: 30px;
+    }
+    .cancer_link1 {
+        font-size: 14px;
+    }
+    .cancer_link2 {
+        font-size: 14px;
+    }
+    .cancer_link3 {
+        font-size: 14px;
+    }
+    .cancer_link4 {
+        font-size: 14px;
+    }
+    .cancer_link5 {
+        font-size: 14px;
+    }
+    .cancer_link6 {
+        font-size: 14px;
+    }
+    .cancer_link7 {
+        font-size: 14px;
+    }
+    .cancer_link8 {
+        font-size: 14px;
+    }
+    .cancer_link9 {
+        font-size: 14px;
+    }
+    .medics_bg_1{
+        background-size: contain;
+        padding: 20px;
+    }
+    .medics_bg_2{
+        background-size: contain;
+        padding: 20px;
+    }
+}
+@media only screen and (max-width: 991px) {
+
+    main {
+        margin-top: 81px;
+    }
+    /* .green_btn {
+        width: 165px;
+        height: 44px;
+        font-size: 15px;
+        padding: 10px 25px;
+        text-align: center;
+    } */
+    .green_btn svg {
+        margin-left: 0;
+    }
+    #owl-home {
+        height: 425px;
+    }
+    .slick-arrow
+    {
+        display: none !important;
+    }
+    .our_speci_wrp .slider_bg .cardd
+    {
+        margin: 10px 20px;
+    }
+    .partient_wrpp_detl
+    {
+        z-index: 99999;
+        left: 0;
+    top: 0;
+    }
+    .partient_wrpp_detl .close_btnn {
+        position: relative;
+        right: 24px;
+        top: 40px;
+        z-index: 9999;
+        /* display: none; */
+        opacity: 0;
+        transition: 1s ease;
+    }
+    .partient_wrpp_detl.show .close_btnn {
+        /* display: flex; */
+        opacity: 1;
+
+    }
+    .find_doctor_wrppp_detl
+    {
+        max-width: 100%;
+    }
+    .enquire_wrppp_detl
+    {
+        max-width: 100%;
+        bottom: 0;
+    }
+    .partient_wrpp_detl .box_wrp .cardwrp p
+    {
+        font-size: 13px;
+    }
+    .partient_wrpp_detl .box_wrp .cardwrp svg {
+        margin-bottom: 10px;
+        width: 45px;
+    }
+    .our_speci_wrp {
+        margin: 50px 0;
+    }
+    .our_speci_wrp .slider_bg {
+        margin-top: 30px;
+    }
+    .partient_wrpp_detl .box_wrp .cardwrp
+    {
+        border-radius: 4px;
+        max-height: 140px;
+        min-height: 140px;
+        padding: 16px 0;
+    }
+
+
+    .kiran_subnav .navigation {
+        height: 0;
+    }
+
+    .kiran_wrp .kiran_nav .right_d {
+        margin-right: 40px;
+    }
+
+    .kiran_subnav .navbar-toggler .hamburger-toggle {
+        position: absolute;
+        width: 43px;
+        height: 48px;
+        right: -11px;
+        top: -65px;
+    }
+
+    .kiran_subnav .navbar-collapse {
+        background-color: var(--whitecolor);
+        border-radius: 11px;
+        max-height: 100vh;
+        min-height: 100%;
+        overflow: auto;
+    }
+
+    .kiran_subnav .navbar-expand-lg .navbar-nav {
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    .kiran_subnav .nav-img,
+    .kiran_subnav .nav-img-two {
+        display: none;
+    }
+
+    .kiran_wrp .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 15px;
+    }
+
+    .home_main_bg .banner_details {
+        padding-top: 0;
+    }
+
+    .home_main_bg .left_image h1 {
+        font-size: 44px;
+    }
+
+    .home_main_bg .left_image p {
+        font-size: 18px;
+    }
+
+    .home_main_bg .right_img .one_img {
+        left: 50px;
+    }
+
+    .home_main_bg .right_img .two_img {
+        right: 50px;
+    }
+
+    .home_about .right_side_det {
+        /* margin-left: 50px; */
+        padding: 15px;
+    }
+
+    .home_about {
+        margin: 60px 0;
+    }
+
+    .home_about .main_bg {
+        height: 430px;
+        max-width: 520px;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+
+    .each_pricing .pricedata span {
+        margin-right: 0;
+    }
+    .plastic_tabs_bx {
+        top: 0;
+        margin-bottom: 20px;
+    }
+    .custom_read_btn {
+        padding: 9px 20px;
+        font-size: 15px;
+    }
+    .doc_visuals {
+        margin-left: 0;
+    }
+    .doc_visuals img {
+        width: 100%;
+        max-height: unset;
+    }
+    .kiran_subnav .list-group-item{
+        font-size: 14px !important;
+    }
+    .page_heading_doc {
+        padding: 40px 0;
+    }
+    .page_heading_floor{
+        padding: 10px 0;
+        background-size: 100% 100% !important;
+    }
+    .page_heading_medic {
+        padding: 10px 0;
+        background-size: 100% 100% !important;
+    }
+
+}
+
+
+@media (max-width: 1510px) {
+    .footer_emg_tag a {
+        width: 40%;
+    }
+}
+
+@media (max-width:1550px) {
+    .plastic_tabs_bx {
+        width: 100%;
+        height: auto;
+        overflow: auto;
+        padding: 10px;
+        left: 0;
+        justify-content: start;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .owl-buttons
+    {
+        display: none;
+    }
+    .visit_form_wrap
+    {
+        width: 80%;
+    }
+    .b_info_wrap::before
+    {
+        display: none;
+    }
+    .partient_wrpp {
+        left: -45px;
+        padding: 5px;
+    }
+
+    .partient_wrpp svg {
+        width: 14px;
+    }
+
+    .blue_sub_title {
+        font-size: 23px;
+    }
+
+    .partient_wrpp p,
+    .find_doctor_wrppp p {
+        font-size: 14px;
+    }
+
+    .find_doctor_wrppp {
+        left: -38px;
+        bottom: 155px;
+        padding: 5px;
+    }
+
+    .find_doctor_wrppp svg {
+        width: 14px;
+    }
+
+    .kiran_subnav .navbar-toggler .hamburger-toggle {
+        top: -58px;
+    }
+
+    .kiran_wrp .kiran_nav .logo img {
+        max-width: 200px;
+    }
+
+    .kiran_wrp .kiran_nav {
+        height: 66px;
+    }
+
+    .kiran_wrp .kiran_nav .smalllogo {
+        width: 34px;
+    }
+
+    .three_card_wpp {
+        margin-top: 35px;
+        /* margin-left: 50px; */
+    }
+    .our_speci_wrp .title {
+        text-align: center;
+        /* margin-left: 50px; */
+    }
+    .three_card_wpp .cardd {
+        margin-bottom: 16px;
+    }
+    .title_max
+    {
+        text-align: center;
+        /* margin-left: 50px; */
+    }
+    .home_about .main_counter .boxx h2 {
+        font-size: 26px;
+    }
+
+    .home_about .main_counter .boxx p {
+        font-size: 12px;
+        margin-bottom: 0;
+    }
+
+    .home_about .main_counter .boxx h2 span {
+        font-size: 16px;
+    }
+
+    .home_about .right_side_det .small_gray_text {
+        margin: 20px 0;
+    }
+    .find_doctor_wrppp_detl.show {
+        /* display: block; */
+        width: 100% !important;
+    }
+    .enquire_wrppp_detl.show {
+        /* display: block; */
+        width: 100% !important;
+        padding: 40px 20px;
+    }
+    .footer_emg_tag a
+    {
+        width: 80%;
+    }
+    .login_container {
+        padding: 30px 30px;
+    }
+    main {
+        margin-top: 70px;
+    }
+    .login_main
+    {
+        height: calc(100vh - 50px);
+    }
+
+    .padding_tb_100 {
+        padding: 20px 0;
+    }
+
+    .booking_wrpp p {
+        font-size: 13px;
+    }
+
+    .booking_wrpp {
+        right: -72px;
+        padding: 5px;
+    }
+    .booking_wrpp svg {
+        width: 14px;
+    }
+    .btn-theme_blue {
+        padding: 7px 18px;
+    }
+    .our_speci_wrp .slider_bg {
+        margin-top: 0px;
+    }
+    .Home_page_heading {
+        padding: 145px 0 !important;
+        height: 100%;
+    }
+    .page_heading{
+        padding: 29px 0;
+    }
+    .each_testimo{
+        padding: 10px;
+    }
+    .slick-slider_testis {
+        margin-top: 20px;
+    }
+    footer{
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .kiran_container {
+        padding: 0 10px;
+    }
+
+    .kiran_wrp .kiran_nav {
+        height: 50px;
+    }
+
+    .theme-btn {
+        width: 90px;
+        height: 30px;
+        font-size: 12px;
+    }
+
+    .kiran_wrp .call_div .icon-wrp {
+        height: 28px;
+        width: 28px;
+    }
+
+    .kiran_wrp .call_div .icon-wrp svg {
+        min-width: 15px;
+        max-width: 15px;
+        min-height: 15px;
+        max-height: 15px;
+    }
+
+    .kiran_wrp .kiran_nav .logo img {
+        max-width: 125px;
+    }
+
+    .kiran_wrp .call_div:hover p {
+        font-size: 9px;
+        top: 32px;
+        width: 96px;
+        padding: 5px 8px;
+        text-align: center;
+        left: -35px;
+    }
+
+    .kiran_subnav .navbar-toggler .hamburger-toggle {
+        top: -50px;
+    }
+
+    .home_main_bg {
+        padding-top: 80px;
+    }
+
+    .home_main_bg .left_image h1 {
+        font-size: 34px;
+        margin-bottom: 6px;
+    }
+
+    .home_main_bg .left_image p {
+        font-size: 16px;
+    }
+
+    .home_main_bg .right_img .one_img {
+        height: 170px;
+        width: 200px;
+    }
+
+    .home_main_bg .right_img .two_img {
+        height: 170px;
+        width: 200px;
+        right: 20px;
+    }
+
+    .home_main_bg .doat_animation {
+        width: 220px;
+        height: 220px;
+    }
+
+    @keyframes myfirst {
+        0% {
+            left: -6px;
+            top: -9px;
+        }
+
+        25% {
+            left: 210px;
+            top: -9px;
+        }
+
+        50% {
+            left: 210px;
+            top: 210px;
+        }
+
+        75% {
+            left: -6px;
+            top: 210px;
+        }
+
+        100% {
+            left: -6px;
+            top: -9px;
+        }
+    }
+
+    .home_main_bg .right_img {
+        height: 350px;
+    }
+
+    .home_main_bg {
+        min-height: auto;
+    }
+
+    .home_main_bg .banner_details {
+        padding-bottom: 0;
+    }
+
+    .home_about .main_bg {
+        height: 360px;
+        max-width: 320px;
+    }
+
+    .home_about .left_side_img .one-img {
+        height: 200px;
+        width: 165px;
+        right: 0;
+    }
+
+    .home_about .left_side_img .two-img {
+        left: 0;
+        height: 200px;
+        width: 180px;
+    }
+
+    .home_about .doat_animation {
+        width: 240px;
+        height: 240px;
+    }
+    .home_about .exx_div .dite h3{
+        font-size: 12px;
+    }
+    .home_about .exx_div .dite p{
+        font-size: 11px;
+    }
+    .home_about .exx_div .svg_wep {
+        min-width: 30px;
+        min-height: 30px;
+    }
+    .home_about .exx_div .svg_wep svg {
+        width: 16px;
+    }
+    .regi_bigtxt h6 {
+        font-size: 12px;
+    }
+    .regi_form_card-title {
+        font-size: 11px;
+        line-height: 16px;
+    }
+    .home_about .right_side_det{
+        padding: 0;
+    }
+    .home_about .main_counter .boxx h2 {
+        font-size: 20px;
+    }
+    .pricing_slider {
+        margin-top: 15px;
+    }
+    .home_about .main_counter .boxx h2{
+        font-size: 16px;
+    }
+
+    .booking_wrpp_detl .box_wrp .cardwrp svg {
+        margin-bottom: 10px;
+    }
+    .booking_wrpp_detl .box_wrp .cardwrp {
+        min-height: 130px;
+        margin-bottom: 20px;
+    }
+    .partient_wrpp_detl .box_wrp .cardwrp {
+        min-height: 110px;
+        margin-bottom: 20px;
+    }
+    .custom-modal-header{
+        right: 0px !important;
+        top: 0 !important;
+    }
+    .modal-header{
+        position: relative;
+        padding: 5px;
+    }
+    .mod_content h4 {
+        font-size: 16px;
+        line-height: normal;
+    }
+    .mod_content {
+        margin-top: 0;
+    }
+    .mod_content p {
+        font-size: 11px;
+        line-height: normal;
+    }
+
+
+    @keyframes myfirsts {
+        0% {
+            left: -6px;
+            top: -9px;
+        }
+
+        25% {
+            left: 230px;
+            top: -9px;
+        }
+
+        50% {
+            left: 230px;
+            top: 230px;
+        }
+
+        75% {
+            left: -6px;
+            top: 230px;
+        }
+
+        100% {
+            left: -6px;
+            top: -9px;
+        }
+    }
+
+
+    .home_about .exx_div {
+        right: 0;
+        padding: 10px;
+        max-width: 250px;
+    }
+    footer img
+    {
+        width: 175px;
+    }
+    .footer_emg_tag span
+    {
+        font-size: 12px;
+    }
+    .foot_num
+    {
+        font-size: 15px !important;
+    }
+    .footer_emg_tag a
+    {
+        padding: 4px 19px;
+    }
+    .each_testimo img
+    {
+        margin-right: -85px;
+    }
+    .each_testimo img {
+        margin-right: -20px;
+        width: 140px;
+        height: 140px;
+        border-radius: 50%;
+    }
+    /* .checkup_quotes
+    {
+        margin-top: -270px;
+    } */
+    .Home_page_heading {
+        padding: 215px 0 0 0 !important;
+        height: 100%;
+    }
+    .home_about {
+       margin: 30px 0;
+    }
+
+    .robotic_section .robotic_title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+}
+
+@media only screen and (max-width: 425px) {
+
+    #owl-home {
+        height: 170px;
+    }
+    .Home_page_heading {
+        padding: 162px 0 0 0 !important;
+        height: 100%;
+    }
+}
+
+@media (max-width:500px) {
+    .inter_patient_head .inter_patient_title {
+        font-size: 40px;
+        line-height: 41px;
+    }
+  }
+
+  @media (max-width:992px) {
+    .hosp_tour_banner .tour_banner_content h1  {
+        font-size: 30px;
+        line-height: 33px;
+    }
+    .multidisciplinary_sec h2 {
+        font-size: 30px;
+    }
+    .doc_visuals_modal {
+        border: 0;
+        border-radius: 0;
+    }
+    .doc_visuals_modal img {
+        min-width: auto;
+        object-fit: contain;
+        margin-bottom: 55px;
+    }
+}
+
+@media (max-width:992px) {
+    .floor_nav_tab {
+        display: block;
+    }
+
+    .floor_link1 {
+        width: auto;
+        font-size: 15px;
+    }
+    .floor_link2 {
+        width: auto;
+        font-size: 15px;
+    }
+    .floor_link3 {
+        width: auto;
+        font-size: 15px;
+    }
+    .floor_link4 {
+        width: auto;
+        font-size: 15px;
+    }
+    .floor_link5 {
+        width: auto;
+        font-size: 15px;
+    }
+    .floor_link6 {
+        width: auto;
+        font-size: 15px;
+    }
+    .floor_link7 {
+        width: auto;
+        font-size: 15px;
+    }
+    .floor_link8 {
+        width: auto;
+        font-size: 15px;
+    }
+    .floor_link9 {
+        width: auto;
+        font-size: 15px;
+    }
+    .floor_link10 {
+        width: auto;
+        font-size: 15px;
+    }
+    .floor_link11 {
+        width: auto;
+        font-size: 15px;
+    }
+    .floor_link12 {
+        width: auto;
+        font-size: 15px;
+    }
+}
+
+
+@media (max-width:1200px) {
+    .history_section .history_img_right img  {
+        width: 100%;
+    }
+    .kiran_subnav .list-group-item {
+        font-size: 11px;
+    }
+}
+
+@media (max-width:1200px) {
+    .history_section .history_img_left img  {
+        width: 100%;
+    }
+}
+
+
+@media (max-width:992px) {
+    .history_section .history_content_left .history_title h5
+    {
+        width: 100%;
+        padding-top: 35px;
+    }
+}
+
+@media (max-width:1200px) {
+    .history_section .history_content .history_title h5 {
+        width: 100%;
+        padding-top: 35px;
+    }
+}
+
+@media (max-width:1200px) {
+    .tour_nav_tab {
+        justify-content: unset;
+    }
+}
+
+@media (max-width:992px) {
+    .booking_section .booking_box {
+        padding: 30px 20px;
+    }
+}
+
+@media (max-width:992px) {
+    .booking_section .booking_heading{
+        margin-bottom: 40px;
+    }
+}
+
+@media (max-width:992px) {
+    .map_section {
+        display: block;
+        justify-content: unset;
+    }
+
+    .responsive-map {
+        position: relative;
+    }
+
+    .map_contact_box {
+        position: unset;
+        margin-top: 40px;
+    }
+
+    .contact_heading h1 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .circle_bg1 {
+        display: none;
+    }
+    .circle_bg2 {
+        display: none;
+    }
+    .patient_circle_bg1 {
+        display: none;
+    }
+    .patient_circle_bg2 {
+        display: none;
+    }
+    .respons_circle_bg1 {
+        display: none;
+    }
+    .respons_circle_bg2 {
+        display: none;
+    }
+    .visit_circle_bg1 {
+        display: none;
+    }
+    .visit_circle_bg2 {
+        display: none;
+    }
+
+    .amrutam_nav_tab {
+        display: block;
+    }
+    .do_link {
+        font-size: 15px;
+        text-align: start;
+    }
+    .map_frame{
+        width: 100%;
+    }
+    .robotic_nav_tab {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .box_bottom_content p {
+        font-size: 12px;
+        line-height: 18px;
+        margin-top: 15px;
+    }
+    .form_content .form_card-title {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .ambulance_btn_img img{
+        display: none;
+    }
+    .ambula_numbar {
+        text-align: center;
+    }
+    .ambula_numbar p {
+        font-size: 14px;
+        line-height: 22px;
+        color: #000000;
+    }
+
+    .ambula_numbar h1 {
+        font-size: 25px;
+        line-height: 35px;
+        color: #000000;
+    }
+
+
+    .ambulance_btn .logo-circle {
+        width: 100%;
+        height: 100%;
+    }
+
+    .details_hosp {
+        padding: 10px 10px;
+    }
+    .details_hosp a {
+        font-size: 10px;
+    }
+
+}
+
+@media (max-width:525px) {
+    .map_contact_box {
+        width: 100%;
+        height: 100%;
+        padding: 10px;
+    }
+}
+
+@media (max-width:500px) {
+
+    .home_title {
+        font-size: 40px;
+        line-height: 41px;
+    }
+    .ambulance_head .ambulance_title {
+        font-size: 40px;
+        line-height: 41px;
+    }
+    .care_section .care_title {
+        font-size: 40px;
+        line-height: 41px;
+    }
+    .guide_section .guide_title {
+        font-size: 40px;
+        line-height: 41px;
+    }
+    .opd_section .opd_title {
+        font-size: 45px;
+    }
+    .ipd_section .ipd_title {
+        font-size: 45px;
+    }
+    .responibilities_section .responibilities_title {
+        font-size: 35px;
+        line-height: 40px;
+    }
+
+    .do_section .do_title {
+        font-size: 40px;
+    }
+
+    .international_section .international_title {
+        font-size: 35px;
+        line-height: 40px;
+    }
+
+    .visit_hour_info .visit_content h6 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .visit_hour_info .visit_content p {
+        font-size: 15px;
+        line-height: 13px;
+    }
+    .visit_hour_info .visit_content {
+        margin-left: 25px;
+    }
+
+    .visit_section .visit_title {
+        font-size: 40px;
+    }
+
+    .amrutam_section .amrutam_title {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .ayushman_section .ayushman_title {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .helth_section .helth_title {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .statutory_section .statutory_title {
+        font-size: 40px;
+        line-height: 41px;
+    }
+
+    .statutory_info .statutory_content p {
+       font-size: 13px;
+       line-height: 17px;
+    }
+
+    .contact_us_section .contact_us_title {
+        font-size: 40px;
+    }
+    .empanel_section .empanel_title {
+        font-size: 40px;
+        line-height: 45px;
+    }
+
+    .kiran_medic_section .kiran_medic_title {
+        font-size: 15px;
+        line-height: normal;
+        margin-bottom: 0;
+    }
+
+    .social_active_section .social_active_title {
+        font-size: 15px;
+        line-height: normal;
+        margin-bottom: 0;
+    }
+
+    .nursing_section .nursing_title {
+        font-size: 40px;
+        line-height: 45px;
+    }
+
+    .donation_section .donation_title {
+        font-size: 40px;
+    }
+
+    .donation_bg_banner .donation_banner_content h1 {
+        font-size: 40px;
+        line-height: 42px;
+    }
+
+    .privacy_section .privacy_title {
+        font-size: 40px;
+    }
+
+    /* .specialities_title {
+        font-size: 20px;
+        line-height: 25px;
+    } */
+
+    .home_visit_section .home_visit_title {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .online_banner_content h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .news_section .news_title {
+        font-size: 15px;
+        line-height: normal;
+        margin-bottom: 0;
+    }
+    .social_section .social_title {
+        font-size: 40px;
+    }
+    .cashless_section .cashless_title {
+        font-size: 40px;
+        line-height: 45px;
+    }
+    .career_section .career_title {
+        font-size: 15px;
+        line-height: normal;
+        margin-bottom: 0;
+    }
+    .career_info .career_text {
+        font-size: 12px;
+        line-height: normal;
+
+    }
+    .form_section .form_title{
+        font-size: 40px;
+        line-height: 45px;
+    }
+
+    .hosp_tour_contents h1 {
+        font-size: 20px;
+        line-height: normal;
+    }
+
+    .hosp_tour_contents {
+        padding: 10px 0;
+    }
+    .doc_visuals img {
+        width: 160px;
+        margin: auto;
+        max-height: unset;
+    }
+
+
+}
+
+@media (max-width:768px) {
+
+    .bg_logo img{
+        width: 100%;
+    }
+
+    .care_bg_logo img{
+        width: 100%;
+    }
+    .care_bg_logo {
+        bottom: -130px;
+    }
+    .guide_bg_logo img{
+        width: 100%;
+    }
+    .ipd_bg_logo img {
+        width: 100%;
+    }
+    .do_bg_logo img {
+        width: 100%;
+    }
+
+    .amrutam-img img {
+        width: 100%;
+    }
+    .ayushman-img img {
+        width: 100%;
+    }
+
+    .statutory_info .statutory_bg {
+        padding: 15px 15px 10px 15px
+    }
+
+    .gallery-container {
+        padding: 30px 20px;
+    }
+
+    .tz-gallery {
+        padding: 0;
+    }
+
+    /* .each_testimo img  {
+        width: auto !important;
+    } */
+
+    .content_bg .call_icon {
+        padding: 8px 0px 0px 20px;
+        width: 100%;
+        height: 100%;
+        justify-content: start;
+    }
+    .call_icon img {
+        width: 60px;
+    }
+    .bg_txt p {
+        font-size: 18px;
+        line-height: normal;
+    }
+    .bg_txt h1 {
+        font-size: 35px;
+        line-height: normal;
+    }
+    .specialities_title {
+        font-size: 20px;
+        line-height: normal;
+        margin-bottom: 5px;
+    }
+    .text-dark {
+        font-size: 12px;
+    }
+    .breadcrumb-item+.breadcrumb-item {
+        font-size: 12px;
+    }
+    .breadcrumb {
+        margin-bottom: 5px;
+        align-items: center;
+    }
+    .page_heading p {
+        font-size: 12px !important;
+    }
+    .green_btn{
+        width: auto;
+        height: auto;
+    }
+
+}
+
+@media (max-width:1200px) {
+    .medic_info_img img {
+        width: 100%;
+    }
+    .kiran_clg img {
+        width: 100%;
+    }
+}
+
+@media (max-width:992px) {
+    .care_box {
+        padding: 30px 25px;
+    }
+    .guide_box {
+        padding: 30px 25px;
+    }
+    /* .green_btn {
+        width: 100%;
+    } */
+
+
+}
+
+
+@media (max-width:768px) {
+    .amenities_box {
+        padding: 40px 20px;
+    }
+
+    .respons_heading h6 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .nursing_blue_btn {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .onco_tabs_bx {
+        width: 100%;
+        top: 0;
+        margin-bottom: 20px;
+    }
+    .visit_hour_info .visit_day_bg{
+        height: 140px;
+        padding: 0 0 0 60px;
+
+    }
+    .visit_hour_info .visit_night_bg {
+        height: 140px;
+        padding: 0 0 0 60px;
+    }
+    .visit_hour_info .visit_content {
+        margin-left: 0;
+    }
+    .visit_hour_info .visit_content p {
+        font-size: 18px;
+        line-height: normal;
+    }
+    .visit_hour_info .visit_content h6 {
+        font-size: 18px;
+        line-height: normal;
+    }
+}
+
+
+@media (max-width:480px) {
+    .do_nav_tab {
+        width: 100%;
+        justify-content: start;
+    }
+    .red_title {
+        font-size: 13px;
+        margin-bottom: 5px;
+    }
+    .blue_sub_title {
+        font-size: 15px;
+        margin-bottom: 0;
+    }
+    .home_about .right_side_det .small_gray_text {
+        margin: 10px 0;
+    }
+    .small_gray_text{
+        font-size: 12px;
+        line-height: normal;
+    }
+    .testi_content_text {
+        padding: 30px 20px;
+    }
+    .testi_content_text p {
+        font-size: 11px;
+    }
+    .testi_content_text h5 {
+        font-size: 11px;
+    }
+    footer {
+        padding: 20px 0 20px 0;
+    }
+    footer .nav-link {
+        padding: 5px 10px;
+        font-size: 13px;
+    }
+    .each_pricing p {
+        font-size: 12px;
+        margin-top: 0;
+    }
+    .each_pricing h4 {
+        font-size: 20px;
+    }
+    .helth_info h6{
+        font-size: 18px;
+    }
+    .helth_info p{
+        font-size: 13px;
+        line-height: 19px;
+    }
+    .b_info_wrap {
+        padding-top: 15px;
+    }
+    .about_title {
+        font-size: 40px;
+    }
+    .price_data_each p {
+        font-size: 13px;
+    }
+    .head_button {
+        top: 40px;
+        right: 6px;
+        width: 40px;
+        height: 40px;
+    }
+    .head_button::before {
+        width: 50px;
+        height: 50px;
+    }
+    .head_button>i {
+        font-size: 10px;
+        margin-left: 3px;
+    }
+
+}
+
+@media (max-width:567px) {
+    .career_green_btn {
+        width: 100%;
+    }
+    .slick-slider-pricing .slick-slide {
+        padding: 10px;
+    }
+    .pp_learnmorebtn {
+        bottom: -7px;
+    }
+    .baki_log_each {
+        display: block;
+    }
+    .signature{
+        width: 100%;
+    }
+    .booking_wrpp_detl {
+        padding: 30px 20px;
+        top: 50px;
+    }
+    .booking_wrpp_detl .box_wrp {
+        margin-top: 15px;
+    }
+    .career_btns {
+        font-size: 13px;
+    }
+    .specialities_title{
+        font-size: 14px;
+    }
+    .page_heading p {
+        margin-bottom: 5px;
+    }
+    .gas_heading{
+        padding: 10px 0 !important;
+    }
+    .green_btn svg {
+        width: 12px;
+    }
+
+    .padding_tb_100 {
+        padding: 10px;
+    }
+    main {
+        margin-top: 50px;
+    }
+    .page_heading {
+        padding: 10px 0;
+        background-size: 100% 100% !important;
+        background-repeat: no-repeat !important;
+    }
+    .bg_txt h1 {
+        font-size: 15px;
+    }
+    .bg_txt p{
+        font-size: 12px;
+    }
+    .call_icon img{
+        width: 40px;
+    }
+    .Treatment_bg{
+        padding: 40px 0;
+    }
+    .medics_bg_1 {
+        height: 150px;
+    }
+    .medics_bg_2 {
+        height: 150px;
+    }
+    .tour_card .tour_title {
+        font-size: 12px;
+        line-height: normal;
+    }
+    .tour_card .tour_text{
+        font-size: 11px;
+    }
+    .gallery_head{
+        font-size: 18px;
+    }
+    .gallery-container{
+        padding: 0px;
+    }
+    .about_title {
+        font-size: 15px;
+        margin-bottom: 0;
+        line-height: normal;
+    }
+    .green_btn {
+        padding: 5px 5px;
+        font-size: 10px;
+        margin-bottom: 10px;
+    }
+    .call_icon svg{
+        font-size: 10px;
+        margin-bottom: 10px;
+    }
+    .plastic_tabs .nav-tabs .nav-link {
+        font-size: 10px;
+    }
+
+}
+
+@media (max-width:430px) {
+    .medics_bg_1 p  {
+        width: 100%;
+    }
+    .medics_bg_2 p  {
+        width: 100%;
+    }
+    .multidisciplinary_sec h2 {
+        font-size: 12px !important;
+    }
+    .medics_bg_1{
+        height: 100px;
+    }
+    .medics_bg_2{
+        height: 100px;
+    }
+    .medics_bg_1 h6 {
+        font-size: 16px;
+    }
+    .medics_bg_2 h6 {
+        font-size: 16px;
+    }
+}
+
+@media (max-width:992px) {
+    .helth_card_bg1 {
+        background-size: cover;
+    }
+    .helth_card_bg2 {
+        background-size: cover;
+    }
+    .helth_card_bg3 {
+        background-size: cover;
+    }
+    .helth_card_bg4 {
+        background-size: cover;
+    }
+
+}
+
+@media (max-width:576px) {
+    .view_green_btn {
+        width: 100%;
+    }
+
+
+    .enquire_wrap p {
+        display: none;
+    }
+    .enquire_wrap {
+        padding: 6px 18px 5px;
+    }
+    .nursing_card_details h6 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .form_box {
+        padding: 40px 20px;
+    }
+    .contact_details h5 {
+        text-align: start;
+        font-size: 15px;
+    }
+    .respons_heading h6 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .amenities_box {
+        padding: 10px 10px;
+    }
+    .price_data_each h5{
+        font-size: 15px;
+    }
+
+    .price_data_each h6{
+        font-size: 15px;
+    }
+    .multidisciplinary_sec h2 {
+        font-size: 20px;
+    }
+    .jus_texts p {
+        font-size: 13px !important;
+    }
+    .inter_check_ul span p {
+        font-size: 13px;
+    }
+    .inter_plan_details h5 {
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width:992px) {
+    .donation_booking_form {
+        background-image: unset !important;
+    }
+
+    .donation-text2 h1 {
+        padding-top: 0;
+    }
+    .page_heading p {
+        width: 100%;
+    }
+
+    .donat_btn {
+        width: 100%;
+    }
+    .enquire_wrap svg {
+        width: 28px;
+    }
+
+    .enquire_wrap p {
+        font-size: 13px;
+    }
+}
+
+@media (max-width:375px) {
+    .Home_page_heading {
+        padding: 147px 0 0 0 !important;
+    }
+}
+
+@media (max-width:360px) {
+    .Home_page_heading {
+        padding: 140px 0 0 0 !important;
+    }
+    .each_testimo{
+        padding: 0;
+    }
+    .each_testimo img{
+        margin-right: -65px;
+        width: 130px;
+        height: 130px;
+        border-radius: 50%;
+    }
+    .regi_bigtxt h6 {
+        font-size: 10px;
+    }
+    .regi_form_card-title {
+        font-size: 8px;
+        line-height: 12px;
+    }
+}
+
+@media (max-width:320px) {
+    .Home_page_heading {
+        padding: 140px 0 0 0 !important;
+    }
+}
